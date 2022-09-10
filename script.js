@@ -1,1 +1,1 @@
-document.write("js is working");
+document.write(Number.isInteger(5));
